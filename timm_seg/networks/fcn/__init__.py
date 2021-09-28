@@ -1,1 +1,0 @@
-from networks.fcn.fcn import get_fcn
